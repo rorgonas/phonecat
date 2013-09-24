@@ -1,0 +1,12 @@
+{
+  "name": "angular-phonecat",
+  "version": "0.1.0",
+  "devDependencies": {
+    "grunt-contrib-jshint": "~0.6.4",
+    "grunt-contrib-nodeunit": "~0.2.0",
+    "grunt-contrib-uglify": "~0.2.4",
+    "grunt": "~0.4.1",
+    "grunt-contrib-csslint": "~0.1.2",
+    "grunt-plato": "~0.2.1"
+  }
+}
